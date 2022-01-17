@@ -14,8 +14,8 @@
 
 Minimal NextJS with Server Side Rendering (SSR) and Incremental Static Generation (ISR) – **Gotta Fetch'Em All!** – and deployed with [Serverless Nextjs CDK construct](https://serverless-nextjs.com/docs/cdkconstruct/) on AWS using CloudFront and Lambda@Edge.
 
-
 ## 🌟 [Read the post for more context](https://ibrahimcesar.cloud/blog/nextjs-typescript-serverless-deploy-with-ssr-and-isr-with-aws-cdk/)
+## 🌟 [See Serverless-nextjs CDK Construct library](https://serverless-nextjs.com/docs/cdkconstruct/)
 
 ### Special Thanks
 
@@ -23,7 +23,6 @@ Minimal NextJS with Server Side Rendering (SSR) and Incremental Static Generatio
 - [Serverless Nextjs CDK construct](https://serverless-nextjs.com/docs/cdkconstruct/), in special [Henry Kirkness](https://github.com/kirkness) and 
 - [Daniel Phang](https://github.com/dphang) for all work at [this feature](https://github.com/serverless-nextjs/serverless-next.js/pull/878) and [ISR](https://github.com/serverless-nextjs/serverless-next.js/pull/1028)
 - [Adam Elmore](https://twitter.com/aeduhm) for put a [bounty on the ISR issue](https://twitter.com/aeduhm/status/1382093398077796357?s=20)!
-
 
 ### MIT License
 
