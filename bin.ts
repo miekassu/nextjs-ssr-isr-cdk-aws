@@ -12,7 +12,7 @@ builder
       env: {
         region: 'us-east-1',
       },
-      analyticsReporting: true,
+      analyticsReporting: false,
       description: "Testing deploying NextJS Serverless Construct"
     });
   })
