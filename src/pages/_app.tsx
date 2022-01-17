@@ -9,6 +9,7 @@ function PokeServerless({ Component, pageProps }: AppProps) {
   const router = useRouter()
   useEffect(() => {
     const handleRouteChange = (url: URL) => {
+      return;
       gtag.pageview(url)
     }
     router.events.on('routeChangeComplete', handleRouteChange)
